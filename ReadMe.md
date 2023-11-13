@@ -23,3 +23,19 @@ Fake Voice (AI-synthesized Voice) detection datasets based on speaker-irrelative
 Please note that the size of this zip file is about `7.8 GB`.  
 
 URL: `https://drive.google.com/file/d/1aaoG_jkREVBaglmW2M7cJmXU088Ndl8G/view?usp=sharing`
+
+## Citation
+
+We hope that you can cite our paper in your publication. It's not mandatory. :D
+
+```
+@INPROCEEDINGS{10301243,
+  author={Liu, Xin and Tan, Yuan and Hai, Xuan and Yu, Qingchen and Zhou, Qingguo},
+  booktitle={2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE)}, 
+  title={Hidden-in-Wave: A Novel Idea to Camouflage AI-Synthesized Voices Based on Speaker-Irrelative Features}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={786-794},
+  doi={10.1109/ISSRE59848.2023.00029}}
+```
